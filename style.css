@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+table {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1, h {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+td {
+    padding: 40px;
+}
+
+img {
+    width: 400px;
+    border: solid white 10px;
+    box-shadow: 8px 8px 8px rgb(57, 57, 57);
+}
